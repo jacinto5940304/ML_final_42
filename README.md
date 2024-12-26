@@ -33,7 +33,7 @@ _In this project, we address the challenge of mosaic removal and resolution enha
 
 1. **SRGAN**  
 - 生成對抗網路 (GAN) 架構，適用於影像超解析度 (Super-Resolution)。
-- ![image](https://github.com/user-attachments/assets/8e217d06-1230-4e99-8f8a-03a7d9ec5bfa)
+- ![image](https://github.com/user-attachments/assets/eb6140de-98fd-44e0-a86b-301e466c5092)
 
 2. **AutoEncoder**  
 - 以自編碼器學習影像的特徵，嘗試從馬賽克還原原始影像。
@@ -50,9 +50,10 @@ _In this project, we address the challenge of mosaic removal and resolution enha
 ## 4. Directory Structure
 
 - CNN & SRGAN
-   - ![image](https://github.com/user-attachments/assets/47a1d579-5aa3-46fa-95b4-6b2516d4e8ce)
+   - ![image](https://github.com/user-attachments/assets/86a01c2d-290e-4f1a-a9dd-657610ba8e31)
+
 - VIT & Autoencoder & Restormer
-   - ![image](https://github.com/user-attachments/assets/e4e2c750-d328-452a-8374-4e853622ff10)
+   - ![image](https://github.com/user-attachments/assets/c575f5ed-9b7f-4e27-babd-4f4728a12147)
 
   
 ---
